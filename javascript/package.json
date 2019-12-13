@@ -12,6 +12,6 @@
     "license": "",
     "dependencies": {
         "jest": "^24.8.0",
-        "npm": "^6.10.0"
+        "npm": "^6.13.4"
     }
 }
